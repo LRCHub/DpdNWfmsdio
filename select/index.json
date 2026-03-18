@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Seandainya",
+  "base_artist": "Vierra",
+  "createdAt": "2026-03-18T07:22:51.864579Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seandainya",
+      "artist": "Vierra",
+      "has_synced": true,
+      "path": "select/01_Seandainya_Vierra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seandainya",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/02_Seandainya_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seandainya",
+      "artist": "Radja",
+      "has_synced": true,
+      "path": "select/03_Seandainya_Radja.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Seandainya Bisa Memilih",
+      "artist": "Padi",
+      "has_synced": true,
+      "path": "select/04_Seandainya_Bisa_Memilih_Padi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Seandainya",
+      "artist": "Ari Lasso",
+      "has_synced": true,
+      "path": "select/05_Seandainya_Ari_Lasso.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Seandainya aku Bisa terbang",
+      "artist": "Kahitna",
+      "has_synced": true,
+      "path": "select/06_Seandainya_aku_Bisa_terbang_Kahitna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seandainya Bisa Memilih (Album Version)",
+      "artist": "Padi",
+      "has_synced": true,
+      "path": "select/07_Seandainya_Bisa_Memilih_(Album_Version)_Padi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Seandainya (Album Version)",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/08_Seandainya_(Album_Version)_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Seandainya",
+      "artist": "SAMSONS",
+      "has_synced": true,
+      "path": "select/09_Seandainya_SAMSONS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Seandainya",
+      "artist": "Brisia Jodie",
+      "has_synced": true,
+      "path": "select/10_Seandainya_Brisia_Jodie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Seandainya Masih Ada Cinta",
+      "artist": "Dayang Nurfaizah, Syde ENV",
+      "has_synced": false,
+      "path": "select/11_Seandainya_Masih_Ada_Cinta_Dayang_Nurfaizah,_Syde_ENV.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Seandainya Tuhan Mengizinkan",
+      "artist": "Stings",
+      "has_synced": true,
+      "path": "select/12_Seandainya_Tuhan_Mengizinkan_Stings.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Seandainya",
+      "artist": "Azharina",
+      "has_synced": true,
+      "path": "select/13_Seandainya_Azharina.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Seandainya",
+      "artist": "Ramlah Ram",
+      "has_synced": false,
+      "path": "select/14_Seandainya_Ramlah_Ram.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Seandainya Aku Punya Sayap",
+      "artist": "Rita Butar-Butar",
+      "has_synced": false,
+      "path": "select/15_Seandainya_Aku_Punya_Sayap_Rita_Butar-Butar.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Seandainya",
+      "artist": "Michela Thea",
+      "has_synced": false,
+      "path": "select/16_Seandainya_Michela_Thea.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Seandainya",
+      "artist": "SAMSONS",
+      "has_synced": true,
+      "path": "select/17_Seandainya_SAMSONS.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Seandainya",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/18_Seandainya_Sheila_On_7.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seandainya",
+      "artist": "Vierra",
+      "has_synced": false,
+      "path": "select/pl_01_Seandainya_Vierra.txt"
+    }
+  ]
+}
